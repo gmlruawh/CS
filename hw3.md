@@ -1,11 +1,24 @@
 # CS
 ---
-## 제어공학 과제 1
+## 제어공학 과제 2
 #### 2020732038 조겸희
 
 ---
 ### p3.1
 ![KakaoTalk_20241015_103249987_04](https://github.com/user-attachments/assets/a83fe850-6330-48a0-987c-caca1fe099f4)
+$$
+\dot{x}(t) =
+\begin{bmatrix}
+0 & 1 \\
+-\frac{k}{m} & -\frac{b}{m}
+\end{bmatrix}
+x(t) +
+\begin{bmatrix}
+0 \\
+\frac{1}{m}
+\end{bmatrix}
+F(t)
+$$
 
 ### p3.3
 ![KakaoTalk_20241015_103249987_05](https://github.com/user-attachments/assets/b04ff2a7-a0e9-4848-995d-1cdd68f3be72)
