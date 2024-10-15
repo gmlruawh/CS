@@ -16,6 +16,8 @@ $$ V_2(s) = \frac{-1}{RCs}V_1(s) $$
    
 ![image](https://github.com/user-attachments/assets/0866dac8-2fde-44b6-8333-71f3952d33aa)
 
+$$ K = 50 $$
+
 ### p2.15
 ![](https://drive.google.com/uc?id=187jRy0bazE6G48fcPosYX0RxyyZb8RJGd)
 
