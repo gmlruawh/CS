@@ -32,7 +32,7 @@ $$
 ![KakaoTalk_20241015_163611875](https://github.com/user-attachments/assets/62d3655c-a61c-4c86-8b29-7515527de7f6)
 
 $$ 
-\frac{Y(s)}{F(s)} = \frac{bs+k}{(ms^2 + bs + k)^2 - (bs+k)^2}
+\frac{Y(s)}{F(s)} = \frac{bs+k}{(ms^2 + bs + k)(Ms^2 + bs + k) - (bs+k)^2}
 $$   
 
 ### p2.37
