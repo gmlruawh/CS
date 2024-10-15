@@ -20,5 +20,6 @@ $ V_2(s) = \frac{-1}{RCs}V_1(s) $
    ![My Image](https://raw.githubusercontent.com/gmlruawh/CS/branch/path_to_image/image.jpg)
 
 ### p2.26
-df
+![KakaoTalk_20241015_103249987_02](https://github.com/user-attachments/assets/1ed2514a-0860-4905-856f-09848f081fc5)
+
 ### p2.37
