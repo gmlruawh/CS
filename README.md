@@ -30,4 +30,8 @@ $$
 $$   
 
 ### p2.37
-![KakaoTalk_20241015_103249987_03](https://github.com/user-attachments/assets/0fe0d4b5-1ffa-40c5-8ea5-af80f3dfffd3)
+![KakaoTalk_20241015_103249987_03](https://github.com/user-attachments/assets/2af627f4-1356-45bf-bb1b-59286bd4750f)
+
+$$
+G(s) = \frac{s^2 + 2s}{(s^4 + 3s^3 + s^2)}
+$$
