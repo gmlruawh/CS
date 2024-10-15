@@ -20,7 +20,7 @@
 ![image](https://github.com/user-attachments/assets/10fef046-53c6-47c0-a064-9f456f4b1421)   
 
 $$
-\
+\ Φ(t) =  
 \begin{bmatrix}
 3e^{-2t} - 3e^{-4t} + e^{-6t} & \frac{5e^{-2t}}{4} - 2e^{-4t} + \frac{3e^{-6t}}{4} & \frac{e^{-2t}}{8} - \frac{e^{-4t}}{4} + \frac{e^{-6t}}{8} \\
 12e^{-4t} - 6e^{-2t} - 6e^{-6t} & 8e^{-4t} - \frac{5e^{-2t}}{2} - \frac{9e^{-6t}}{2} & e^{-4t} - \frac{e^{-2t}}{4} - \frac{3e^{-6t}}{4} \\
