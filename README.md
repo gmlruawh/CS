@@ -36,8 +36,8 @@ $$
 $$   
 
 ### p2.37
-![KakaoTalk_20241015_103249987_03](https://github.com/user-attachments/assets/2af627f4-1356-45bf-bb1b-59286bd4750f)
+![KakaoTalk_20241015_224502241](https://github.com/user-attachments/assets/c13da704-0e00-463b-a1fd-6c8255d974b1)
 
 $$
-G(s) = \frac{s^2 + 2s}{s^4 + 3s^3 + s^2}
+G(s) = \frac{s^2 + 2}{s^4 + 3s^2 + 1}
 $$
