@@ -25,7 +25,10 @@ $$ K = 50 $$
 ### p2.26
 ![KakaoTalk_20241015_163611875](https://github.com/user-attachments/assets/62d3655c-a61c-4c86-8b29-7515527de7f6)
 
-$$ \frac{Y(s)}{F(s) = \frac{bs+k}{(ms^2 + bs + k)^2 - (bs+k)^2} $$
+$$
+\frac{Y(s)}{F(s)} = \frac{bs+k}{(ms^2 + bs + k)^2 - (bs+k)^2}
+$$
+
 
 ### p2.37
 ![KakaoTalk_20241015_103249987_03](https://github.com/user-attachments/assets/0fe0d4b5-1ffa-40c5-8ea5-af80f3dfffd3)
