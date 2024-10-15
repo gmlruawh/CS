@@ -17,7 +17,14 @@
 ![KakaoTalk_20241015_103249987_07](https://github.com/user-attachments/assets/8897dc0c-661b-4b20-ba85-3a4495d10871)
 ![KakaoTalk_20241015_103249987_08](https://github.com/user-attachments/assets/fbd48217-878e-48af-b23a-05bde7093cb4)   
 이어서 매트랩을 통한 라플라스 역변환으로 상태천이 행렬을 구하는 과정과 결과는 다음과 같다.
+![image](https://github.com/user-attachments/assets/10fef046-53c6-47c0-a064-9f456f4b1421)
 
+$$
+Inverse Laplace Transform of the matrix:
+[     3*exp(-2*t) - 3*exp(-4*t) + exp(-6*t), (5*exp(-2*t))/4 - 2*exp(-4*t) + (3*exp(-6*t))/4,     exp(-2*t)/8 - exp(-4*t)/4 + exp(-6*t)/8]
+[  12*exp(-4*t) - 6*exp(-2*t) - 6*exp(-6*t), 8*exp(-4*t) - (5*exp(-2*t))/2 - (9*exp(-6*t))/2,   exp(-4*t) - exp(-2*t)/4 - (3*exp(-6*t))/4]
+[12*exp(-2*t) - 48*exp(-4*t) + 36*exp(-6*t),       5*exp(-2*t) - 32*exp(-4*t) + 27*exp(-6*t), exp(-2*t)/2 - 4*exp(-4*t) + (9*exp(-6*t))/2]
+$$
 
 ### p3.17
 ![KakaoTalk_20241015_103249987_09](https://github.com/user-attachments/assets/802e1bd8-0cea-4ec5-996a-f1b7fb2d4d85)
