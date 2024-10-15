@@ -6,7 +6,7 @@
 ---
 ### p2.7
    
-$ V_2(s) = \frac{-1}{RCs}V_1(s) $
+$$ V_2(s) = \frac{-1}{RCs}V_1(s) $$
 ![image](https://github.com/user-attachments/assets/e8a7e248-11a0-4259-9d1d-cc4d26bb57f5)
 
 ### p2.12
