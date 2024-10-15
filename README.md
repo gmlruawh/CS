@@ -21,6 +21,12 @@ $$ K = 50 $$
 ### p2.15
 ![KakaoTalk_20241015_103249987_01](https://github.com/user-attachments/assets/e936a095-7ac4-4163-8d8e-b05c364bd502)
 
+위 식의 라플라스 역변환을 구하기 위해 매트랩을 사용하면 과정과 결과는 다음과 같다.   
+![image](https://github.com/user-attachments/assets/9055f2ad-ac76-4944-ba82-76977a63d583)
+
+$$
+\frac{2 \cdot \sin\left(\frac{t \cdot \sqrt{- b^2 + 4 \cdot k \cdot m}}{2 \cdot m}\right) \cdot \exp\left(-\frac{b \cdot t}{2 \cdot m}\right)}{\sqrt{- b^2 + 4 \cdot k \cdot m}}
+$$
 
 ### p2.26
 ![KakaoTalk_20241015_163611875](https://github.com/user-attachments/assets/62d3655c-a61c-4c86-8b29-7515527de7f6)
