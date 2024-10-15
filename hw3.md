@@ -18,4 +18,4 @@
 ![KakaoTalk_20241015_103249987_08](https://github.com/user-attachments/assets/fbd48217-878e-48af-b23a-05bde7093cb4)
 
 ### p3.17
-![KakaoTalk_20241015_103249987_09](https://github.com/user-attachments/assets/d6bba789-30bf-4f1e-b1e8-aed5b0d0e9fd)
+![KakaoTalk_20241015_103249987_09](https://github.com/user-attachments/assets/802e1bd8-0cea-4ec5-996a-f1b7fb2d4d85)
