@@ -23,3 +23,4 @@ $ V_2(s) = \frac{-1}{RCs}V_1(s) $
 ![KakaoTalk_20241015_103249987_02](https://github.com/user-attachments/assets/1ed2514a-0860-4905-856f-09848f081fc5)
 
 ### p2.37
+![KakaoTalk_20241015_103249987_03](https://github.com/user-attachments/assets/0fe0d4b5-1ffa-40c5-8ea5-af80f3dfffd3)
