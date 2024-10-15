@@ -25,7 +25,7 @@ $$ K = 50 $$
 ![image](https://github.com/user-attachments/assets/9055f2ad-ac76-4944-ba82-76977a63d583)
 
 $$
-\frac{2 \cdot \sin\left(\frac{t \cdot \sqrt{- b^2 + 4 \cdot k \cdot m}}{2 \cdot m}\right) \cdot \exp\left(-\frac{b \cdot t}{2 \cdot m}\right)}{\sqrt{- b^2 + 4 \cdot k \cdot m}}
+x(t) = \frac{2 \cdot \sin\left(\frac{t \cdot \sqrt{- b^2 + 4 \cdot k \cdot m}}{2 \cdot m}\right) \cdot \exp\left(-\frac{b \cdot t}{2 \cdot m}\right)}{\sqrt{- b^2 + 4 \cdot k \cdot m}}
 $$
 
 ### p2.26
