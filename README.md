@@ -33,5 +33,5 @@ $$
 ![KakaoTalk_20241015_103249987_03](https://github.com/user-attachments/assets/2af627f4-1356-45bf-bb1b-59286bd4750f)
 
 $$
-G(s) = \frac{s^2 + 2s}{(s^4 + 3s^3 + s^2)}
+G(s) = \frac{s^2 + 2s}{s^4 + 3s^3 + s^2}
 $$
